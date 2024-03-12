@@ -1,0 +1,17 @@
+.model-number {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 10px;
+    font-family: Montserrat,
+}
+
+.information {
+    text-align: center;
+    font-size: 15px;
+    margin-top: 0;
+}
+
+.deliver {
+    text-decoration: underline;
+}

@@ -1,0 +1,50 @@
+.video-button {
+    font-family: arial;
+    font-size: 14px;
+    font-weight: bold;
+    width: 220px;
+    line-height: 20px;
+    margin-bottom: 5px;
+    
+
+}
+
+.stats-button {
+    color: gray;
+    font-size: 12px;
+    margin-top: 0px;
+}
+
+.author-button {
+    color: gray;
+    font-size: 12px;
+}
+
+.description-button {
+    color: gray;
+    font-size: 14px;
+    width: 280px;
+    line-height: 18px;
+    margin-bottom: 80px;
+}
+
+.shop-button {
+    font-size: 14px;
+    background-color:rgb(227, 65, 64);
+    color: white;
+    padding-left: 100px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    
+    
+    
+
+
+}
+
+
+.underline-button:hover {
+    text-decoration: underline;
+    cursor:pointer;
+
+}

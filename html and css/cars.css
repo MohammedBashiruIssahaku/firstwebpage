@@ -1,0 +1,585 @@
+.carbuying {
+    display: block;
+    font-weight: bold;
+    font-size: 50px;
+    margin-left: 250px;
+    margin-bottom: 25px;
+    
+}
+
+.carbuying:hover  {
+    opacity: 0.7;
+    cursor:pointer;
+
+}
+
+.carbuying:active {
+    opacity: 0.3;
+    transition: 0.5s;
+}
+  
+
+.searchcar {
+    display: block;
+    margin-left: 400px;
+    width: 200px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 300px;
+    border-radius: 50px;
+    border-style: solid;
+    font-size: 20px;
+    
+    
+}
+
+
+
+.img {
+    background-color: black;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.img:hover {
+    opacity: 0.7;
+ }
+
+ .img:active {
+    opacity: 0.5;
+
+ }
+
+
+
+.new {
+    display: inline-block;
+    margin-left: 20px;
+    vertical-align: top;
+    background-color: black;
+    color: white;
+    width: 40px;
+    padding-left: 20px;
+    font-family: arial;
+    margin-left: 30px;
+    vertical-align: top;
+    cursor: pointer ;
+}
+
+.new:hover {
+    opacity: 0.7;
+ }
+
+ .new:active {
+    opacity: 0.5;
+
+ }
+
+ .used {
+    display: inline-block;
+    margin-left: 30px;
+    color: white ;
+    vertical-align: top;
+    cursor:pointer;
+ }
+
+ .used:hover {
+    opacity: 0.7;
+ }
+
+ .used:active {
+    opacity: 0.5;
+
+ }
+
+
+ .Electric {
+    display: inline-block;
+    margin-left: 30px;
+    color: white ;
+    vertical-align: top;
+    cursor: pointer;
+ }
+
+ .Electric:hover {
+    opacity: 0.7;
+ }
+
+ .Electric:active {
+    opacity: 0.5;
+ }
+
+ 
+ .research {
+    display: inline-block;
+    margin-left: 30px;
+    color: white ;
+    vertical-align: top;
+    cursor: pointer ;
+ }
+
+ .research:hover {
+    opacity: 0.7;
+ }
+
+ .research:active {
+    opacity: 0.5;
+ }
+ 
+
+
+ .sell {
+    display: inline-block;
+    margin-left: 30px;
+    color: white ;
+    vertical-align: top;
+    }
+    
+
+    .sell:hover {
+        opacity: 0.7;
+     }
+    
+     .sell:active {
+        opacity: 0.5;
+     }
+
+    
+ .search-bar {
+    display: inline-block;
+    margin-left: 300px;
+    
+
+ }
+    
+ .signup {
+    display: inline-block;
+    color: white ;
+    vertical-align: top;
+    margin-left: 150px;
+    cursor: pointer;
+    }
+
+    .signup:hover {
+        opacity: 0.7;
+     }
+    
+     .signup:active {
+        opacity: 0.5;
+     }
+
+    
+
+
+ .car-sales {
+    background-color: black;
+    margin-bottom: 20px;
+ }
+ .shop-used {
+    margin-left: 500px;
+    width: 150px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgba(99, 99, 235, 0.829);
+    color: white;
+    border: none;
+    border-radius: 50px;
+    font-size: 15px;
+    cursor: pointer;
+ }
+
+ .shop-used:hover {
+    opacity: 0.7;
+ }
+
+ .shop-used:active {
+    opacity: 0.5;
+ }
+
+ .shop-new {
+    margin-left: 10px;
+    width: 150px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgba(99, 99, 235, 0.829);
+    color: white;
+    border: none;
+    border-radius: 50px;
+    font-size: 15px;
+    cursor: pointer;
+ }
+
+ .shop-new:hover {
+    opacity: 0.7;
+ }
+
+ .shop-new:active {
+    opacity: 0.5;
+ }
+
+
+ 
+ .power {
+    font-family: arial;
+    font-weight: bold;
+    font-size: 50px;
+    cursor:pointer;
+    
+ }
+
+
+ .img-car {
+    width: 300px;
+ }
+
+ .first-car {
+    display: inline-block;
+ }
+   
+ .img-car2 {
+  width: 180px;
+
+  
+ }
+
+ .second-car {
+    display: inline-block;
+    font-family: arial;
+    margin-left: 50px;
+    
+ }
+  .img-car3 {
+    width: 200px ;
+  }
+ .third-car {
+    display: inline-block;
+    margin-left: 50px;
+ }
+  
+
+
+ .img-car4 {
+    width: 200px;
+ }
+ .fouth-car {
+    display: inline-block;
+    margin-left: 50px;
+ }
+
+ .fifth-car{
+    display: inline-block;
+    margin-left: 50px;
+    
+ }
+  
+ .sixth-car {
+    display: inline-block;
+    margin-top: 100px;
+ }
+  
+ .seventh-car {
+    display: inline-block;
+    margin-left: 180px;
+    
+ }
+
+ .eighth-car {
+    display: inline-block;
+    margin-left: 50px;
+    
+ }
+
+ .ninth-car {
+    display: inline-block;
+    margin-left: 50px;
+    width: 200px;
+    
+
+
+ }
+
+ .tenth-car {
+    display:inline-block;
+    margin-left: 50px;
+    
+ }
+
+ .eleventh-car {
+    display: inline-block;
+    margin-top: 100px;
+    
+ }
+  
+
+ .twelve-car {
+    display: inline-block;
+    margin-left: 120px;
+ }
+
+ .thirtenth-car {
+    display: inline-block;
+    margin-left: 50px;
+    
+
+ }
+
+ .fourteenth-car {
+    display: inline-block;
+    margin-left: 50px;
+    
+ }
+
+ .fifteenth-car {
+    display: inline-block;
+    margin-left: 50px;
+    d
+ }
+
+ .budget {
+    font-family: Arial;
+    font-size: 20px;
+    width: 200px;
+    margin-top:100px;
+    margin-left: 500px;
+    margin-bottom: 0;
+    
+    
+ }
+
+
+ .honda {
+    margin-left: 300px;
+    width: 500px;
+    margin-top: 0;
+    
+    
+ }
+   .feature {
+    margin-left: 500px;
+    font-size: 30px;
+    font-family: arial;
+    font-weight: bold;
+    
+   }
+    
+   .img01 {
+    width: 300px;
+    margin-bottom: 10px;
+    margin-left: 200px;
+    
+   }
+
+   .fit {
+    font-family: arial;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 10;
+    margin-left: 30px;
+    margin-left: 250px;
+    
+   }
+    
+   .direction {
+    font-family: arial;
+    width: 350px;
+    margin-top: 80;
+    margin-left: 200px;
+    
+   }
+
+   .quiz1 {
+    background-color: black;
+    color: white;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:40px;
+    padding-right: 40px;
+    border-radius: 40px;
+    margin-left: 50px;
+    margin-left: 260px;
+    
+
+   }
+
+   .quiz1:hover  {
+    opacity: 0.7;
+    cursor:pointer;
+
+}
+
+.quiz1:active {
+    opacity: 0.3;
+    transition: 0.5s;
+}
+   .img02 {
+    width: 300px;
+    margin-bottom: 10px;
+    margin-left: 200px;
+    
+
+   }
+
+   .sell-trade {
+    font-family: arial;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 10;
+    margin-left: 30px;
+    margin-left: 250px;
+    
+   }
+    .direction1 { font-family: arial;
+    width: 350px;
+    margin-top: 80;
+    margin-left: 200px;
+    
+   }
+
+   .learn {
+    background-color: black;
+    color: white;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:40px;
+    padding-right: 40px;
+    border-radius: 40px;
+    margin-left: 50px;
+    margin-left: 260px;
+    
+   }
+
+   .learn:hover  {
+    opacity: 0.7;
+    cursor:pointer;
+
+}
+
+.learn:active {
+    opacity: 0.3;
+    transition: 0.5s;
+}
+
+   .first-stat {
+    display: inline-block;
+   }
+
+   .second-stat {
+    display: inline-block;
+   }
+
+   .car001 {
+    font-family: arial;
+    font-size:50px;
+    margin-left: 500px;
+    font-weight: bold;
+   }
+
+   .car001:hover  {
+    opacity: 0.7;
+    cursor:pointer;
+
+}
+
+.car001:active {
+    opacity: 0.3;
+    transition: 0.5s;
+}
+
+   .img-trans {
+    margin-left: 320px;
+   }
+   .img-trans:hover  {
+    opacity: 0.7;
+    cursor:pointer;
+
+}
+
+.img-trans:active {
+    opacity: 0.3;
+    transition: 0.5s;
+}
+   .img-time {
+    margin-left: 320px;
+
+   }
+   .img-time:hover  {
+    opacity: 0.7;
+    cursor:pointer;
+
+}
+
+.img-time:active {
+    opacity: 0.3;
+    transition: 0.5s;
+}
+
+   .img-shop {
+    margin-left: 320px;
+   }
+   .img-shop:hover  {
+    opacity: 0.7;
+    cursor:pointer;
+
+}
+
+.img-shop:active {
+    opacity: 0.3;
+    transition: 0.5s;
+}
+
+   .trans-1 {
+    display: inline-block;
+    
+   }
+   .trans-1:hover  {
+    opacity: 0.7;
+    cursor:pointer;
+
+}
+
+.trans-1:active {
+    opacity: 0.3;
+    transition: 0.5s;
+}
+
+   .time-1 {
+    display: inline-block;
+   }
+   .time-1:hover  {
+    opacity: 0.7;
+    cursor:pointer;
+
+}
+
+.time-1:active {
+    opacity: 0.3;
+    transition: 0.5s;
+}
+
+   .shop-1 {
+    display: inline-block;
+   }
+
+   .shop-1:hover  {
+    opacity: 0.7;
+    cursor:pointer;
+
+}
+
+.shop-1:active {
+    opacity: 0.3;
+    transition: 0.5s;
+}
+   
+
+.home-true {
+    background-color: gray;
+    color: black;
+}
+
+
+
+    

@@ -1,0 +1,55 @@
+.user,
+.user2,
+.user3 {
+    font-weight: bold;
+}
+
+
+
+
+
+.add-button,
+.add-button2,
+.add-button3 {
+    background-color: rgba(65, 65, 226, 0.884);
+    border: none;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+    
+}
+
+.suggestion,
+.suggestion2,
+.suggestion3 {
+    display: inline-block;
+}
+
+.thumbnail3 {
+    width: 230px;
+    vertical-align: top;
+    height: 230px;
+
+}
+
+.suggestion {
+    margin-right: 36px;
+}
+
+.suggestion2 {
+    margin-right: 36px;
+
+}
+
+.suggestion3{
+    margin-right: 36px;
+
+}
+
+
+
